@@ -11,7 +11,7 @@ namespace CLDV_Tutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
-            Console.WriteLine("This is a C# console application");
+            Console.WriteLine("This is Praise's C# console application, Success");
             Console.WriteLine("Running on .NET 10.0 with C# 14.0 features");
         }
     }
